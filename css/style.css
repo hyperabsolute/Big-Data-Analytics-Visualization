@@ -1,0 +1,29 @@
+html, body {
+  background: #000;
+  margin: 0;
+}
+
+canvas {
+  position: absolute;
+}
+
+/*
+SOCIAL STYLES APPEAR BELOW.
+ALSO REMEMBER TO REFERENCE THE JS URL IN THE JS PAN SETTINGS: http://codepen.io/Sander-Nizni/pen/mPoOjg
+*/
+
+#social-container {
+  opacity: 0.9;
+	bottom: 5px;
+	right: 5px;
+}
+#social-container p{
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+#social-container #social-links a {
+	font-size: 2.8rem;
+}
+#social-message {
+	font-size: 1.15rem;
+}
